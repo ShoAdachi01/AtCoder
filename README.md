@@ -1,2 +1,2 @@
 # AtCoder
-Solving AtCoder Problems For Fun
+AtCoder Beginner Contest  
