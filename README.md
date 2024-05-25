@@ -1,2 +1,3 @@
 # AtCoder
-AtCoder Beginner Contest  
+Doing AtCoder Beginner Contest Just For Fun
+
