@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <bits/stdc++.h>
 using namespace std; 
 int main(){
@@ -16,4 +17,16 @@ int main(){
     }
     cout << cnt;
     return 0;
+=======
+#include <iostream>
+#include <algorithm>
+using namespace std; 
+
+int main(){
+    int a1, a2, a3, a4;
+    cin >> a1 >> a2 >> a3 >> a4;
+    find(a1 )
+
+    return 0;
+>>>>>>> e4af8d2 (using namespace std;)
 }
