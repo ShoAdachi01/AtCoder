@@ -13,7 +13,6 @@ int main(){
             cnt++;
             i++;
         }
-
     }
     cout << cnt;
     return 0;
